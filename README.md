@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raul. I teach at University.
 - 👀 I’m interested in material science.
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on deep learning for materials science
+- 💞️ I’m looking to collaborate on deep learning application for materials science.
 
 
 <!---
